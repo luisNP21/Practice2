@@ -1,2 +1,3 @@
-# Practice2
-Esta es la practica 2 desarrollada en Haskell
+# Practice2 Integrantes:
+María Alwjandra Ocampo Giraldo
+Luis Angel Nerio Pereira
